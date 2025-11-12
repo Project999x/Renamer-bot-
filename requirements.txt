@@ -1,0 +1,27 @@
+pyrogram==2.0.105
+tgcrypto
+pyromod==1.5
+aiohttp
+nest_asyncio
+# tenacity==8.2.2
+
+# MEGA.NZ - Install crypto in correct order
+pycryptodome>=3.15.0
+mega.py==1.0.8
+
+python-dotenv
+psutil
+tqdm
+pytz
+shortzy
+
+# Database libs
+pymongo
+motor
+umongo
+marshmallow
+dnspython
+
+# Other utils
+requests
+aiofiles

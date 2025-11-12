@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: nyxciper1w32edscsq
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8015:8080"   # maps host port 8015 to container port 8080
+    restart: unless-stopped
+    command: python3 main.py
+    # Add environment variables if needed
+    # environment:
+    #   - API_HASH=${API_HASH}
+    #   - APP_ID=${APP_ID}
+    #   - BOT_TOKEN=${BOT_TOKEN}

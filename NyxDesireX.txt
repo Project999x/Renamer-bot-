@@ -1,0 +1,607 @@
+[20-Oct-25 02:56:12 - INFO] - root - Starting bot...
+[20-Oct-25 02:56:13 - INFO] - root - Bot started. Running idle...
+[20-Oct-25 02:56:17 - ERROR] - database - Error adding user: The DNS query name does not exist: _mongodb._tcp.s42kf.mongodb.net.
+[20-Oct-25 02:56:17 - ERROR] - database - Error updating user activity: The DNS query name does not exist: _mongodb._tcp.s42kf.mongodb.net.
+[20-Oct-25 02:56:17 - ERROR] - database - Error getting mega session: The DNS query name does not exist: _mongodb._tcp.s42kf.mongodb.net.
+[20-Oct-25 02:56:22 - ERROR] - database - Error adding user: The DNS query name does not exist: _mongodb._tcp.s42kf.mongodb.net.
+[20-Oct-25 02:56:22 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 02:56:24 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 02:56:25 - INFO] - mega.mega - Login complete
+[20-Oct-25 02:56:25 - ERROR] - database - Error saving mega session: The DNS query name does not exist: _mongodb._tcp.s42kf.mongodb.net.
+[20-Oct-25 02:56:33 - ERROR] - database - Error deleting mega session: The DNS query name does not exist: _mongodb._tcp.s42kf.mongodb.net.
+[20-Oct-25 02:56:36 - ERROR] - database - Error adding user: The DNS query name does not exist: _mongodb._tcp.s42kf.mongodb.net.
+[20-Oct-25 02:56:36 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 02:56:38 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 02:56:39 - INFO] - mega.mega - Login complete
+[20-Oct-25 02:56:39 - ERROR] - database - Error saving mega session: The DNS query name does not exist: _mongodb._tcp.s42kf.mongodb.net.
+[20-Oct-25 02:58:26 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[20-Oct-25 02:58:28 - INFO] - root - Shutdown signal received, stopping bot...
+[20-Oct-25 02:58:28 - INFO] - root - Bot stopped.
+[20-Oct-25 02:59:55 - INFO] - root - Starting bot...
+[20-Oct-25 02:59:56 - INFO] - root - Bot started. Running idle...
+[20-Oct-25 03:00:08 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:00:10 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:00:11 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:00:17 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:00:18 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:00:20 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:00:36 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:00:38 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:00:39 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:00:39 - INFO] - plugins.scrapper - 🔥 Getting all files and caching...
+[20-Oct-25 03:00:39 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (116).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (116).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (112).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (112).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (122).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (122).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (22).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (22).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (117).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (117).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (21).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (21).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (129).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (129).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (11).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (11).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (125).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (125).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (9).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (9).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (128).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (128).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (8).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (8).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (127).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (127).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (18).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (18).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (121).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (121).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (12).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (12).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (115).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (115).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (10).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (10).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (120).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (120).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (20).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (20).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (132).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (132).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (14).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (14).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (119).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (119).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (15).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (15).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (131).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (131).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (16).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (16).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (130).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (130).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (17).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (17).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (118).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (118).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (13).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (13).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (126).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (126).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (19).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (19).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (123).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (123).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (7).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (7).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (124).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (124).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (23).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (23).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (32).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (32).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (144).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (144).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (33).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (33).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (149).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (149).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (35).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (35).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (147).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (147).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (36).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (36).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (148).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (148).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (34).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (34).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (152).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (152).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (114).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (114).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (145).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (145).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (113).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (113).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:00:40 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (153).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (153).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:01:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[20-Oct-25 03:01:46 - INFO] - root - Shutdown signal received, stopping bot...
+[20-Oct-25 03:01:46 - INFO] - root - Bot stopped.
+[20-Oct-25 03:20:42 - INFO] - root - Starting bot...
+[20-Oct-25 03:20:43 - INFO] - root - Bot started. Running idle...
+[20-Oct-25 03:20:50 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:20:51 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:20:52 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:21:01 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:21:03 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:21:04 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:21:04 - INFO] - plugins.scrapper - 🔥 Getting all files and caching...
+[20-Oct-25 03:21:04 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (116).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (116).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (112).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (112).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (122).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (122).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (22).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (22).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (117).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (117).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (21).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (21).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (129).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (129).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (11).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (11).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (125).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (125).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (9).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (9).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (128).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (128).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (8).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (8).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (127).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (127).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (18).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (18).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (121).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (121).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (12).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (12).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (115).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (115).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (10).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (10).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (120).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (120).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (20).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (20).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (132).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (132).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (14).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (14).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (119).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (119).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (15).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (15).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (131).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (131).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (16).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (16).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (130).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (130).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (17).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (17).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (118).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (118).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (13).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (13).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (126).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (126).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (19).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (19).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (123).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (123).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (7).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (7).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (124).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (124).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (23).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (23).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (32).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (32).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (144).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (144).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (33).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (33).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (149).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (149).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (35).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (35).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:05 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (147).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (147).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:06 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (36).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (36).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:06 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (148).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (148).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:06 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (34).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (34).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:06 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (152).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (152).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:06 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (114).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (114).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:06 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (145).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (145).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:06 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (113).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (113).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:21:06 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (153).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (153).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:31:04 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[20-Oct-25 03:31:08 - INFO] - root - Shutdown signal received, stopping bot...
+[20-Oct-25 03:31:08 - INFO] - root - Bot stopped.
+[20-Oct-25 03:32:15 - INFO] - root - Starting bot...
+[20-Oct-25 03:32:16 - INFO] - root - Bot started. Running idle...
+[20-Oct-25 03:33:14 - ERROR] - database - Error adding user: your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ad3f6f8ef538fd859186, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:33:15 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:33:16 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:33:17 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:33:27 - ERROR] - database - Error adding user: your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ad3f6f8ef538fd859186, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:33:27 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:33:29 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:33:30 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:33:43 - ERROR] - database - Error adding user: your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ad3f6f8ef538fd859186, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:33:43 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:33:44 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:33:45 - ERROR] - database - Error adding user: your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ad3f6f8ef538fd859186, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:33:45 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:33:48 - ERROR] - database - Error saving mega session: your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ad3f6f8ef538fd859186, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:34:00 - ERROR] - database - Error saving mega session: your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ad3f6f8ef538fd859186, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:34:16 - ERROR] - database - Error saving mega session: your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ad3f6f8ef538fd859186, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:34:27 - ERROR] - database - Error deleting mega session: your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ad3f6f8ef538fd859186, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -3] Temporary failure in name resolution (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:34:45 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[20-Oct-25 03:34:46 - INFO] - root - Shutdown signal received, stopping bot...
+[20-Oct-25 03:34:46 - INFO] - root - Bot stopped.
+[20-Oct-25 03:36:35 - INFO] - root - Starting bot...
+[20-Oct-25 03:36:36 - INFO] - root - Bot started. Running idle...
+[20-Oct-25 03:37:32 - ERROR] - database - Error adding user: your_mongodb_connection_string:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ae4369edd2721a1ca105, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:37:32 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:37:33 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:37:34 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:37:48 - ERROR] - database - Error getting total users: your_mongodb_connection_string:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ae4369edd2721a1ca105, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:38:05 - ERROR] - database - Error saving mega session: your_mongodb_connection_string:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ae4369edd2721a1ca105, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:38:17 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[20-Oct-25 03:38:19 - INFO] - root - Shutdown signal received, stopping bot...
+[20-Oct-25 03:38:19 - ERROR] - database - Error getting premium users count: your_mongodb_connection_string:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ae4369edd2721a1ca105, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:38:24 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[20-Oct-25 03:38:26 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[20-Oct-25 03:38:49 - ERROR] - database - Error getting users joined today: your_mongodb_connection_string:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68f5ae4369edd2721a1ca105, topology_type: Unknown, servers: [<ServerDescription ('your_mongodb_connection_string', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('your_mongodb_connection_string:27017: [Errno -2] Name or service not known (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+[20-Oct-25 03:39:00 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[20-Oct-25 03:39:01 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[20-Oct-25 03:39:41 - INFO] - root - Starting bot...
+[20-Oct-25 03:39:42 - INFO] - root - Bot started. Running idle...
+[20-Oct-25 03:40:12 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:40:14 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:40:15 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:40:31 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:40:33 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:40:34 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:40:34 - INFO] - plugins.scrapper - 🔥 Getting all files and caching...
+[20-Oct-25 03:40:34 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:40:34 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:40:35 - INFO] - mega.mega - Request failed, retrying
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (116).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (116).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (112).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (112).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (122).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (122).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (22).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (22).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (117).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (117).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (21).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (21).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (129).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (129).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (11).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (11).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (125).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (125).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (9).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (9).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (128).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (128).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (8).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (8).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (127).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (127).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (18).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (18).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (121).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (121).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (12).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (12).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (115).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (115).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (10).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (10).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (120).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (120).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (20).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (20).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (132).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (132).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (14).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (14).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (119).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (119).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (15).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (15).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (131).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (131).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (16).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (16).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (130).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (130).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (17).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (17).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (118).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (118).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (13).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (13).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (126).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (126).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (19).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (19).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (123).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (123).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (7).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (7).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (124).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (124).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (23).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (23).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (32).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (32).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (144).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (144).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (33).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (33).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (149).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (149).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (35).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (35).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (147).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (147).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (36).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (36).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (148).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (148).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (34).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (34).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (152).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (152).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (114).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (114).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (145).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (145).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (113).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (113).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:40:38 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (153).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (153).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:41:40 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[20-Oct-25 03:41:42 - INFO] - root - Shutdown signal received, stopping bot...
+[20-Oct-25 03:41:42 - INFO] - root - Bot stopped.
+[20-Oct-25 03:42:51 - INFO] - root - Starting bot...
+[20-Oct-25 03:42:51 - ERROR] - root - Unexpected crash:
+Traceback (most recent call last):
+  File "/root/Rename/main.py", line 46, in <module>
+    asyncio.run(main())
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+  File "/usr/lib/python3.10/asyncio/futures.py", line 201, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+    result = coro.send(None)
+  File "/root/Rename/main.py", line 22, in main
+    await bot.start()
+  File "/root/Rename/bot.py", line 34, in start
+    await super().start()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/utilities/start.py", line 74, in start
+    await self.initialize()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/auth/initialize.py", line 46, in initialize
+    self.load_plugins()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/client.py", line 689, in load_plugins
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/root/Rename/plugins/premium.py", line 4, in <module>
+    from mega import Mega
+ModuleNotFoundError: No module named 'mega'
+
+[20-Oct-25 03:42:51 - INFO] - root - Restarting bot in 5 seconds...
+[20-Oct-25 03:42:56 - INFO] - root - Restarting now...
+[20-Oct-25 03:42:57 - INFO] - root - Starting bot...
+[20-Oct-25 03:42:57 - INFO] - root - Gracefully shutting down bot (Ctrl+C detected)...
+[20-Oct-25 03:42:57 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at /root/Rename/main.py:19> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/root/Rename/main.py", line 46, in <module>
+    asyncio.run(main())
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+    result = coro.send(None)
+  File "/root/Rename/main.py", line 22, in main
+    await bot.start()
+  File "/root/Rename/bot.py", line 34, in start
+    await super().start()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/utilities/start.py", line 58, in start
+    is_authorized = await self.connect()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/auth/connect.py", line 40, in connect
+    await self.load_session()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/client.py", line 619, in load_session
+    await self.storage.test_mode() is None,
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 198, in test_mode
+    return self._accessor(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 189, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/storage/sqlite_storage.py", line 173, in _get
+    attr = inspect.stack()[2].function
+  File "/usr/lib/python3.10/inspect.py", line 1673, in stack
+    return getouterframes(sys._getframe(1), context)
+  File "/usr/lib/python3.10/inspect.py", line 1650, in getouterframes
+    frameinfo = (frame,) + getframeinfo(frame, context)
+  File "/usr/lib/python3.10/inspect.py", line 1624, in getframeinfo
+    lines, lnum = findsource(frame)
+  File "/usr/lib/python3.10/inspect.py", line 952, in findsource
+    module = getmodule(object, file)
+  File "/usr/lib/python3.10/inspect.py", line 878, in getmodule
+    os.path.realpath(f)] = module.__name__
+  File "/usr/lib/python3.10/posixpath.py", line 392, in realpath
+    def realpath(filename, *, strict=False):
+KeyboardInterrupt
+[20-Oct-25 03:43:10 - INFO] - root - Starting bot...
+[20-Oct-25 03:43:11 - ERROR] - root - Unexpected crash:
+Traceback (most recent call last):
+  File "/root/Rename/main.py", line 46, in <module>
+    asyncio.run(main())
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+  File "/usr/lib/python3.10/asyncio/futures.py", line 201, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+    result = coro.send(None)
+  File "/root/Rename/main.py", line 22, in main
+    await bot.start()
+  File "/root/Rename/bot.py", line 34, in start
+    await super().start()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/utilities/start.py", line 74, in start
+    await self.initialize()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/auth/initialize.py", line 46, in initialize
+    self.load_plugins()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/client.py", line 689, in load_plugins
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/root/Rename/plugins/premium.py", line 4, in <module>
+    from mega import Mega
+ImportError: cannot import name 'Mega' from 'mega' (/usr/local/lib/python3.10/dist-packages/mega/__init__.py)
+
+[20-Oct-25 03:43:11 - INFO] - root - Restarting bot in 5 seconds...
+[20-Oct-25 03:43:16 - INFO] - root - Restarting now...
+[20-Oct-25 03:43:17 - INFO] - root - Starting bot...
+[20-Oct-25 03:43:18 - ERROR] - root - Unexpected crash:
+Traceback (most recent call last):
+  File "/root/Rename/main.py", line 46, in <module>
+    asyncio.run(main())
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+  File "/usr/lib/python3.10/asyncio/futures.py", line 201, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+    result = coro.send(None)
+  File "/root/Rename/main.py", line 22, in main
+    await bot.start()
+  File "/root/Rename/bot.py", line 34, in start
+    await super().start()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/utilities/start.py", line 74, in start
+    await self.initialize()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/auth/initialize.py", line 46, in initialize
+    self.load_plugins()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/client.py", line 689, in load_plugins
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/root/Rename/plugins/premium.py", line 4, in <module>
+    from mega import Mega
+ImportError: cannot import name 'Mega' from 'mega' (/usr/local/lib/python3.10/dist-packages/mega/__init__.py)
+
+[20-Oct-25 03:43:18 - INFO] - root - Restarting bot in 5 seconds...
+[20-Oct-25 03:43:23 - INFO] - root - Restarting now...
+[20-Oct-25 03:43:24 - INFO] - root - Starting bot...
+[20-Oct-25 03:43:25 - ERROR] - root - Unexpected crash:
+Traceback (most recent call last):
+  File "/root/Rename/main.py", line 46, in <module>
+    asyncio.run(main())
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+  File "/usr/lib/python3.10/asyncio/futures.py", line 201, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+    result = coro.send(None)
+  File "/root/Rename/main.py", line 22, in main
+    await bot.start()
+  File "/root/Rename/bot.py", line 34, in start
+    await super().start()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/utilities/start.py", line 74, in start
+    await self.initialize()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/auth/initialize.py", line 46, in initialize
+    self.load_plugins()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/client.py", line 689, in load_plugins
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/root/Rename/plugins/premium.py", line 4, in <module>
+    from mega import Mega
+ImportError: cannot import name 'Mega' from 'mega' (/usr/local/lib/python3.10/dist-packages/mega/__init__.py)
+
+[20-Oct-25 03:43:25 - INFO] - root - Restarting bot in 5 seconds...
+[20-Oct-25 03:43:30 - INFO] - root - Restarting now...
+[20-Oct-25 03:43:31 - INFO] - root - Starting bot...
+[20-Oct-25 03:43:31 - ERROR] - root - Unexpected crash:
+Traceback (most recent call last):
+  File "/root/Rename/main.py", line 46, in <module>
+    asyncio.run(main())
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+  File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+  File "/usr/lib/python3.10/asyncio/futures.py", line 201, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+    result = coro.send(None)
+  File "/root/Rename/main.py", line 22, in main
+    await bot.start()
+  File "/root/Rename/bot.py", line 34, in start
+    await super().start()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/utilities/start.py", line 74, in start
+    await self.initialize()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/methods/auth/initialize.py", line 46, in initialize
+    self.load_plugins()
+  File "/usr/local/lib/python3.10/dist-packages/pyrogram/client.py", line 689, in load_plugins
+    module = import_module(module_path)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/root/Rename/plugins/premium.py", line 4, in <module>
+    from mega import Mega
+ImportError: cannot import name 'Mega' from 'mega' (/usr/local/lib/python3.10/dist-packages/mega/__init__.py)
+
+[20-Oct-25 03:43:31 - INFO] - root - Restarting bot in 5 seconds...
+[20-Oct-25 03:44:29 - INFO] - root - Starting bot...
+[20-Oct-25 03:44:30 - INFO] - root - Bot started. Running idle...
+[20-Oct-25 03:44:56 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:44:57 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:44:58 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:45:06 - INFO] - mega.mega - Logging in user...
+[20-Oct-25 03:45:08 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:45:09 - INFO] - mega.mega - Login complete
+[20-Oct-25 03:45:09 - INFO] - plugins.scrapper - 🔥 Getting all files and caching...
+[20-Oct-25 03:45:09 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:45:09 - INFO] - mega.mega - Getting all files...
+[20-Oct-25 03:45:09 - INFO] - mega.mega - Request failed, retrying
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (116).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (116).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (112).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (112).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (122).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (122).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (22).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (22).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (117).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (117).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (21).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (21).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (129).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (129).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (11).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (11).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (125).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (125).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (9).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (9).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (128).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (128).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (8).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (8).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (127).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (127).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (18).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (18).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (121).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (121).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (12).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (12).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (115).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (115).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (10).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (10).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (120).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (120).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (20).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (20).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (132).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (132).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (14).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (14).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (119).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (119).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (15).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (15).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (131).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (131).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (16).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (16).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (130).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (130).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (17).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (17).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (118).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (118).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (13).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (13).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (126).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (126).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (19).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (19).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (123).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (123).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (7).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (7).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (124).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (124).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (23).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (23).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (32).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (32).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (144).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (144).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (33).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (33).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (149).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (149).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (35).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (35).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (147).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (147).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (36).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (36).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (148).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (148).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (34).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (34).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (152).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (152).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (114).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (114).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (145).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (145).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (113).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (113).mp4': 'Mega' object has no attribute 'files'
+[20-Oct-25 03:45:13 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (153).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (153).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:25:18 - INFO] - root - Starting bot...
+[22-Oct-25 02:25:19 - INFO] - root - Bot started. Running idle...
+[22-Oct-25 02:26:13 - INFO] - mega.mega - Logging in user...
+[22-Oct-25 02:26:15 - INFO] - mega.mega - Getting all files...
+[22-Oct-25 02:26:16 - INFO] - mega.mega - Login complete
+[22-Oct-25 02:26:28 - INFO] - mega.mega - Logging in user...
+[22-Oct-25 02:26:29 - INFO] - mega.mega - Getting all files...
+[22-Oct-25 02:26:30 - INFO] - mega.mega - Login complete
+[22-Oct-25 02:26:30 - INFO] - plugins.scrapper - 🔥 Getting all files and caching...
+[22-Oct-25 02:26:30 - INFO] - mega.mega - Getting all files...
+[22-Oct-25 02:26:30 - INFO] - mega.mega - Getting all files...
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (116).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (116).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (112).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (112).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (122).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (122).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (22).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (22).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (117).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (117).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (21).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (21).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (129).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (129).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (11).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (11).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (125).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (125).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (9).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (9).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (128).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (128).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (8).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (8).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (127).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (127).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (18).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (18).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (121).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (121).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (12).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (12).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (115).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (115).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (10).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (10).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (120).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (120).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (20).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (20).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (132).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (132).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (14).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (14).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (119).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (119).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (15).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (15).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (131).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (131).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (16).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (16).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (130).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (130).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (17).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (17).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (118).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (118).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (13).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (13).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (126).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (126).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (19).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (19).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (123).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (123).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (7).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (7).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (124).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (124).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (23).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (23).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (32).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (32).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (144).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (144).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (33).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (33).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (149).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (149).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (35).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (35).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (147).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (147).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (36).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (36).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (148).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (148).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (34).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (34).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (152).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (152).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (114).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (114).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (145).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (145).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (113).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (113).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:26:32 - ERROR] - plugins.scrapper - Rename failed for '@FindMyGfBack Teligram (153).mp4' with new name '@dd_free_dishh (tg) @FindMyGfBack Teligram (153).mp4': 'Mega' object has no attribute 'files'
+[22-Oct-25 02:35:19 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[22-Oct-25 02:35:20 - INFO] - root - Shutdown signal received, stopping bot...
+[22-Oct-25 02:35:20 - INFO] - root - Bot stopped.
